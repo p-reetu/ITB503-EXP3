@@ -8,3 +8,5 @@ z = int(input("enter the first number: "))
 
 print("The multiplication of three numbers is")
 print(sum(x,y,z))
+
+#new comment added
